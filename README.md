@@ -33,3 +33,5 @@ Through Gray Box Fuzzing Technique）
  * https://www.blackhat.com/docs/us-15/materials/us-15-Lei-Optimized-Fuzzing-IOKit-In-iOS-wp.pdf  （阿里巴巴移动团队）
  * http://zhodiac.hispahack.com/index.php?section=blog&day=6&month=7&year=2015  （IOKit fuzzing, sMethods and IDA）
  * https://cansecwest.com/slides/2016/CSW2016_Chen-Grassi-He_Apple_Graphics_Is_Compromised.pdf  （KeenLab 关于OS X驱动漏洞挖掘）
+ * http://www.powerofcommunity.net/poc2015/liang.pdf  （KeenLab POC2015 OS X kernel is as strong as its weakest part）
+ * http://www.powerofcommunity.net/poc2015/pangu.pdf   (盘古 POC215 Hacking from iOS8 to iOS9)
