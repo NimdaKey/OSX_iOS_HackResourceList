@@ -28,5 +28,8 @@
 
 ---
 * 漏洞挖掘相关文章
- * http://security.di.unimi.it/~joystick/pubs/eurosec14.pdf （一篇OS X论文Improving Mac OS X Security
+ * http://security.di.unimi.it/~joystick/pubs/eurosec14.pdf （一篇OS X论文---Improving Mac OS X Security
 Through Gray Box Fuzzing Technique）
+ * https://www.blackhat.com/docs/us-15/materials/us-15-Lei-Optimized-Fuzzing-IOKit-In-iOS-wp.pdf  （阿里巴巴移动团队）
+ * http://zhodiac.hispahack.com/index.php?section=blog&day=6&month=7&year=2015  （IOKit fuzzing, sMethods and IDA）
+ * https://cansecwest.com/slides/2016/CSW2016_Chen-Grassi-He_Apple_Graphics_Is_Compromised.pdf  （KeenLab 关于OS X驱动漏洞挖掘）
