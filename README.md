@@ -16,10 +16,10 @@
 
 ---
 * 漏洞
- * 三叉戟漏洞 Pegasus相关
-  * http://blog.pangu.io/pegasus-apt/
-  * http://bbs.pediy.com/showthread.php?t=212483
-  * http://bbs.pediy.com/showthread.php?t=212555
+  * 三叉戟漏洞 Pegasus相关
+   * http://blog.pangu.io/pegasus-apt/
+   * http://bbs.pediy.com/showthread.php?t=212483
+   * http://bbs.pediy.com/showthread.php?t=212555
 * twiiter
 * github
  * https://github.com/pandazheng/IosHackStudy      (熊猫正正的收集的很多资源 不断更新中)
