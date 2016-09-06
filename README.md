@@ -3,6 +3,7 @@
 
 ---
 * 团队及个人博客
+  * http://blog.pangu.io                           (盘古博客，干货多)
   * https://www.reddit.com/r/jailbreak/            (reddit越狱讨论区)
   * http://bbs.iosre.com/                          (iOS逆向论坛)
   * http://nirvan.360.cn/blog/?cat=2               (360涅槃团队 干货文章很多)
