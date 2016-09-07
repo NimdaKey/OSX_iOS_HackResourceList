@@ -21,6 +21,8 @@
     * http://blog.pangu.io/pegasus-apt/
     * http://bbs.pediy.com/showthread.php?t=212483
     * http://bbs.pediy.com/showthread.php?t=212555
+  * CVE-2015-7084
+    * http://nirvan.360.cn/blog/?p=1005           （IORegistryIterator竞争条件漏洞分析与利用）
 * twiiter
 * github
  * https://github.com/pandazheng/IosHackStudy      (熊猫正正的收集的很多资源 不断更新中)
