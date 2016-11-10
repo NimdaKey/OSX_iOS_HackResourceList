@@ -8,8 +8,10 @@
   * http://bbs.iosre.com/                          (iOS逆向论坛)
   * http://nirvan.360.cn/blog/?cat=2               (360涅槃团队 干货文章很多)
   * https://reverse.put.as/                        (fG个人博客)
+  * https://pikeralpha.wordpress.com               (pikeralpha个人博客)
+  * https://tweakbsd.org                           (一个博客)
   * http://blog.qwertyoruiop.com/                  (越狱达人qwertyoruiop)
-  * http://www.freebuf.com/author/熊猫正正         (熊猫正正)
+  * http://www.freebuf.com/author/熊猫正正          (熊猫正正)
   * http://pandazheng.blog.163.com/                (熊猫正正)
   * 太极
     * http://www.taig.com/mss/                    （太极越狱2015峰会）
