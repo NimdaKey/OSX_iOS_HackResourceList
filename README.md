@@ -14,6 +14,7 @@
   * http://www.freebuf.com/author/熊猫正正          (熊猫正正)
   * http://pandazheng.blog.163.com/                (熊猫正正)
   * https://macviruscom.wordpress.com              (一个主要介绍恶意软件的博客，更新中)
+  * http://contagiodump.blogspot.hk                (malware样本分享博客)
   * 太极
     * http://www.taig.com/mss/                    （太极越狱2015峰会）
     * http://www.taig.com/platform.html           （太极漏洞提交）
